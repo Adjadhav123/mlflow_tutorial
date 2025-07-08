@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/638458303277450339/8091cb393ae24dfe91d377ce39987a9b/artifacts
+end_time: 1751996776478
+entry_point_name: ''
+experiment_id: '638458303277450339'
+lifecycle_stage: active
+run_id: 8091cb393ae24dfe91d377ce39987a9b
+run_name: xgboost_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751996765166
+status: 3
+tags: []
+user_id: adity

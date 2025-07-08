@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/638458303277450339/b0a4ff7479f2436ba0534964043b4493/artifacts
+end_time: 1751996765068
+entry_point_name: ''
+experiment_id: '638458303277450339'
+lifecycle_stage: active
+run_id: b0a4ff7479f2436ba0534964043b4493
+run_name: random_forest_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751996758524
+status: 3
+tags: []
+user_id: adity

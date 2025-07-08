@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/adity/OneDrive/Desktop/MLOps/mlruns/398129834597621555
+creation_time: 1751995949005
+experiment_id: '398129834597621555'
+last_update_time: 1751995949005
+lifecycle_stage: active
+name: xgboost_experiment

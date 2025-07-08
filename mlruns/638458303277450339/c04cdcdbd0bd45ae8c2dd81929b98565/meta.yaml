@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/638458303277450339/c04cdcdbd0bd45ae8c2dd81929b98565/artifacts
+end_time: 1751996758399
+entry_point_name: ''
+experiment_id: '638458303277450339'
+lifecycle_stage: active
+run_id: c04cdcdbd0bd45ae8c2dd81929b98565
+run_name: logistic_regression_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751996736327
+status: 3
+tags: []
+user_id: adity
